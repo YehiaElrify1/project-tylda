@@ -82,7 +82,13 @@ The application adheres strictly to **Feature-First Clean Architecture**, enforc
 Illustrates system interactions between external entities (**Patient**, **Doctor**, **Pharmacy**, **Admin**) and the central AVO platform runtime.
 
 <div align="center">
-  <img src="avo_website/assets/diagrams/dfd_level_0.png" alt="DFD Level 0 Diagram" width="85%" />
+  <table style="background-color: #ffffff; border-radius: 10px; padding: 12px; border: 1px solid #e1e4e8;">
+    <tr>
+      <td align="center" style="background-color: #ffffff;">
+        <img src="avo_website/assets/diagrams/dfd_level_0.png" alt="DFD Level 0 Diagram" width="85%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -91,7 +97,13 @@ Illustrates system interactions between external entities (**Patient**, **Doctor
 Details internal subsystem processes, data stores, and event streams for authentication, appointment scheduling, OCR prescription parsing, and billing.
 
 <div align="center">
-  <img src="avo_website/assets/diagrams/dfd_level_1.png" alt="DFD Level 1 Diagram" width="85%" />
+  <table style="background-color: #ffffff; border-radius: 10px; padding: 12px; border: 1px solid #e1e4e8;">
+    <tr>
+      <td align="center" style="background-color: #ffffff;">
+        <img src="avo_website/assets/diagrams/dfd_level_1.png" alt="DFD Level 1 Diagram" width="85%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -100,7 +112,13 @@ Details internal subsystem processes, data stores, and event streams for authent
 Maps out runtime modular components, microservices, local storage partitions, and third-party cloud integrations.
 
 <div align="center">
-  <img src="avo_website/assets/diagrams/component_diagram.png" alt="Component Diagram" width="85%" />
+  <table style="background-color: #ffffff; border-radius: 10px; padding: 12px; border: 1px solid #e1e4e8;">
+    <tr>
+      <td align="center" style="background-color: #ffffff;">
+        <img src="avo_website/assets/diagrams/component_diagram.png" alt="Component Diagram" width="85%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -109,7 +127,13 @@ Maps out runtime modular components, microservices, local storage partitions, an
 Class definitions, inheritance structures, model attributes, and business methods.
 
 <div align="center">
-  <img src="avo_website/assets/diagrams/class_diagram.png" alt="Class Diagram" width="85%" />
+  <table style="background-color: #ffffff; border-radius: 10px; padding: 12px; border: 1px solid #e1e4e8;">
+    <tr>
+      <td align="center" style="background-color: #ffffff;">
+        <img src="avo_website/assets/diagrams/class_diagram.png" alt="Class Diagram" width="85%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -118,7 +142,13 @@ Class definitions, inheritance structures, model attributes, and business method
 Permission matrix and functional boundaries for Patient, Doctor, Pharmacist, and Administrator actors.
 
 <div align="center">
-  <img src="avo_website/assets/diagrams/use_case.png" alt="Use Case Diagram" width="85%" />
+  <table style="background-color: #ffffff; border-radius: 10px; padding: 12px; border: 1px solid #e1e4e8;">
+    <tr>
+      <td align="center" style="background-color: #ffffff;">
+        <img src="avo_website/assets/diagrams/use_case.png" alt="Use Case Diagram" width="85%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
