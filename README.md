@@ -1,27 +1,38 @@
+<p align="center">
+  <a href="infogragh/Infogragh.pdf" title="Click to view or download full high-resolution PDF">
+    <img src="infogragh/Infogragh.png" alt="AVO HealthCare DEPI Project Showcase Infographic" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 135, 107, 0.15); border: 1px solid rgba(0, 135, 107, 0.2);" />
+  </a>
+</p>
+
+<p align="center">
+  <em>👆 <b>Click the infographic above</b> to open or download the complete high-resolution <b><a href="infogragh/Infogragh.pdf">Infogragh.pdf</a></b> document.</em>
+</p>
+
+---
+
 <div align="center">
 
-  <img src="avo_website/assets/imgs/logo/logo.png" alt="AVO HealthCare Logo" width="130" />
+  <img src="avo_website/assets/imgs/logo/logo.png" alt="AVO HealthCare Logo" width="130" />
 
-  # AVO HealthCare — Technical Architecture & Engineering Documentation
+  # AVO HealthCare — Technical Architecture & Engineering Documentation
 
-  <p align="center">
-    <b>A Multi-Role Telemedicine, AI Diagnostics & Health Operations Platform</b><br/>
-    <i>Built with Flutter, Feature-First Clean Architecture, BLoC/Cubit, Firebase RTDB/Firestore, and Google Gemini AI</i>
-  </p>
+  <p align="center">
+    <b>A Multi-Role Telemedicine, AI Diagnostics & Health Operations Platform</b><br/>
+    <i>Built with Flutter, Feature-First Clean Architecture, BLoC/Cubit, Firebase RTDB/Firestore, and Google Gemini AI</i>
+  </p>
 
-  <!-- Technical Badges -->
-  <p align="center">
-    <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.3+-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
-    <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-    <img src="https://img.shields.io/badge/Architecture-Clean_Feature--First-teal?style=for-the-badge" alt="Clean Architecture" />
-    <img src="https://img.shields.io/badge/State-BLoC%20%2F%20Cubit%20%2B%20Provider-8A2BE2?style=for-the-badge" alt="State Management" />
-    <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Database-RTDB%20%2B%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
-    <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/AI_Engine-Gemini%20%2B%20ML_Kit-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" /></a>
-    <a href="https://yehiaelrify1.github.io/project-tylda/"><img src="https://img.shields.io/badge/Live_Showcase-GitHub_Pages-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Showcase" /></a>
-  </p>
+  <!-- Technical Badges -->
+  <p align="center">
+    <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.3+-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+    <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+    <img src="https://img.shields.io/badge/Architecture-Clean_Feature--First-teal?style=for-the-badge" alt="Clean Architecture" />
+    <img src="https://img.shields.io/badge/State-BLoC%20%2F%20Cubit%20%2B%20Provider-8A2BE2?style=for-the-badge" alt="State Management" />
+    <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Database-RTDB%20%2B%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+    <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/AI_Engine-Gemini%20%2B%20ML_Kit-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" /></a>
+    <a href="https://yehiaelrify1.github.io/project-tylda/"><img src="https://img.shields.io/badge/Live_Showcase-GitHub_Pages-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Showcase" /></a>
+  </p>
 
-  <p align="center">
-    <a href="#-project-showcase-infographic">Showcase Infographic</a> •
+  <p align="center">
     <a href="#-architectural-patterns--system-design">System Design</a> •
     <a href="#-uml--data-flow-specifications">UML & DFD Specs</a> •
     <a href="#-deep-dive-technical-modules">Technical Modules</a> •
@@ -31,20 +42,6 @@
   </p>
 
 </div>
-
----
-
-## 📊 Project Showcase Infographic
-
-<p align="center">
-  <a href="infogragh/Infogragh.pdf" title="Click to view full high-resolution PDF">
-    <img src="infogragh/Infogragh.png" alt="AVO HealthCare DEPI Project Showcase Infographic" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 135, 107, 0.15); border: 1px solid rgba(0, 135, 107, 0.2);" />
-  </a>
-</p>
-
-<p align="center">
-  <em>👆 <b>Click the infographic above</b> to open or download the complete high-resolution <b><a href="infogragh/Infogragh.pdf">Infogragh.pdf</a></b> document.</em>
-</p>
 
 ---
 
