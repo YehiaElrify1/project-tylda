@@ -1,11 +1,11 @@
 {
   "hosting": {
+    "site": "tylda-avo",
     "public": "avo_website",
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/node_modules/**",
-      "assets/pptx_media/**"
+      "**/node_modules/**"
     ],
     "rewrites": [
       {
