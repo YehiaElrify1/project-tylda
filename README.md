@@ -19,7 +19,13 @@
     <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/AI_Engine-Gemini%20%2B%20ML_Kit-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" /></a>
     <a href="https://yehiaelrify1.github.io/project-tylda/"><img src="https://img.shields.io/badge/Live_Showcase-GitHub_Pages-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Showcase" /></a>
   </p>
-
+<p align="center">
+    <a href="https://yehiaelrify1.github.io/project-tylda/" target="_blank">
+      <img src="avo_website/assets/imgs/showcase_preview.gif" alt="Click to open live showcase" width="85%" style="border-radius: 15px; border: 1px solid #e1e4e8;" />
+    </a>
+    <br/>
+    <i>👆 Click the screen above to launch the interactive live showcase 👆</i>
+  </p>
   <p align="center">
     <a href="#-architectural-patterns--system-design">System Design</a> •
     <a href="#-uml--data-flow-specifications">UML & DFD Specs</a> •
