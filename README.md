@@ -21,15 +21,30 @@
   </p>
 
   <p align="center">
-    <a href="#-architectural-patterns--system-design">System Design</a> •
-    <a href="#-uml--data-flow-specifications">UML & DFD Specs</a> •
-    <a href="#-deep-dive-technical-modules">Technical Modules</a> •
-    <a href="#-data-synchronization--hybrid-database-topology">Database Topology</a> •
-    <a href="#-codebase-structure">Codebase Structure</a> •
-    <a href="#-developer-setup--tooling">Developer Setup</a>
-  </p>
+    <a href="#-project-showcase-infographic">Showcase Infographic</a> •
+    <a href="#-architectural-patterns--system-design">System Design</a> •
+    <a href="#-uml--data-flow-specifications">UML & DFD Specs</a> •
+    <a href="#-deep-dive-technical-modules">Technical Modules</a> •
+    <a href="#-data-synchronization--hybrid-database-topology">Database Topology</a> •
+    <a href="#-codebase-structure">Codebase Structure</a> •
+    <a href="#-developer-setup--tooling">Developer Setup</a>
+  </p>
 
 </div>
+
+---
+
+## 📊 Project Showcase Infographic
+
+<p align="center">
+  <a href="infogragh/Infogragh.pdf" title="Click to view full high-resolution PDF">
+    <img src="infogragh/Infogragh.png" alt="AVO HealthCare DEPI Project Showcase Infographic" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 135, 107, 0.15); border: 1px solid rgba(0, 135, 107, 0.2);" />
+  </a>
+</p>
+
+<p align="center">
+  <em>👆 <b>Click the infographic above</b> to open or download the complete high-resolution <b><a href="infogragh/Infogragh.pdf">Infogragh.pdf</a></b> document.</em>
+</p>
 
 ---
 
